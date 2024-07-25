@@ -1,0 +1,62 @@
+.พื้นหลัง{
+    background-color: rgb(236, 179, 252);
+}
+.ตัวหนังสือ{
+    color: rgb(26, 58, 240);
+   
+}
+.font{
+    font-size: 60px;
+}
+.แบคกาว{
+    background-color: rgb(212, 250, 181);
+}
+.ตัวหนังสืออ{
+    color: black;
+
+   
+}
+.img {
+    width: 250px;
+    border-radius: 30px;
+}
+/*  */
+.รูป{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(218, 189, 245);
+   
+}
+
+
+.kiki{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsou-9Yj0s2NTQ1pGx4zvMQj12BW1NUvgLA&s);
+    background-size: cover;
+}
+.หนังสืออ{
+    font-style: normal;
+    color: blue;
+}
+ol{
+    color: blue;
+}
+li{
+    color: blue;
+}
+
+table{
+    align-items: center;
+    border: 1;
+    width: 70%;
+    color: rgb(45, 255, 255);
+}
+h2{
+    color: pink;
+}
+h1{
+    color: pink;
+}
+ol{
+    color: aliceblue;
+}
+
